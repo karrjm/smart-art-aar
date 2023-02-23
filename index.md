@@ -14,8 +14,6 @@ Specifically, I was responsible for the creation of a pipeline that would be use
 
 In addition, I was responsible for creating the 'stack' concept and implementing it through C# scripts. A card stack is an array of 'cards' which can be interacted with using touch controls. These cards hold the content created by the student and act almost like a PowerPoint presentation. The cards can contain text, images, video, and sound. A card stack is a child of a 'point of interest', which is placed on a spot of the painting that the students want to draw attention to, be they a character's hat, the artist's signature, or the frame the painting is in.
 
-
-
 ![whiteboard interactions](images\whiteboard-interaction.jpg)
 *Planning interactions on the whiteboard*
 
@@ -28,7 +26,7 @@ In addition, I was responsible for creating the 'stack' concept and implementing
 
 This project presented a significant challenge that required expertise in objects, loops, arrays, and linear interpolation, as well as patience to revise and debug until it met our expectations. Below is a code snippet of how I moved the cards using linear interpolation. The GitHub for [SMART-Art](https://github.com/karrjm/SMARTArt) is public if you would like to check it out. I am happy to go into detail or show more examples if there is interest.
 
-```C#
+```csharp
 private void MoveCards()
 {
   // This loop moves the cards.
