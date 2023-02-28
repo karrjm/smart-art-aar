@@ -61,4 +61,4 @@ private void MoveCards()
 
 I was later asked to be a teacher's assistant in Prof. Ogden's upcoming course which would use SMART-Art. I spent most of my time outside of class fixing any bugs that emerged with real-world use. More importantly during class, I found a new appreciation for teaching people to use something I had designed, answering questions about it in a non-technical and everyday language, and spending time with students troubleshooting or lending my expertise to help them create something they are proud of. 
 
-Overall, my team and I made a big impact by delivering what we did. Prof. Ogden and MCSII were impressed with our work and SMART-Art is still being by the digital humanities department to create augmented reality experiences. Mitch Ogden has graciously offered himself as a reference which I am happy to provide if you folks at **Hack Club** request.
+Overall, my team and I made a big impact by delivering what we did. Prof. Ogden and MCSII were impressed with our work and SMART-Art is still being by the digital humanities department to create augmented reality experiences.
